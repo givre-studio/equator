@@ -1,0 +1,14 @@
+{
+  "version": "1.1.6",
+  "build": 7,
+  "url": "https://raw.githubusercontent.com/givre-studio/equator/main/Equator.zip",
+  "sha256": "3c5227c87e760668b263d64e6593674c5708bd8e854849e0629b32698705d5bf",
+  "kind": "feature",
+  "severity": "minor",
+  "title": "Equator 1.1.6",
+  "notes": "On ne reste plus jamais coincé dans une fenêtre.",
+  "highlights": [
+    "Boost, couleurs, espaces, profils, chaînes Cinéma : une petite croix en haut à droite pour fermer.",
+    "Un bouton OK en bas du Boost et de l'atelier de couleurs, et la touche Échap ferme aussi."
+  ]
+}
