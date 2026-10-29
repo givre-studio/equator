@@ -1,0 +1,16 @@
+{
+  "version": "1.1.5",
+  "build": 6,
+  "url": "https://raw.githubusercontent.com/givre-studio/equator/main/Equator.zip",
+  "sha256": "cea571f2d8a6ae3837d261737deabbb251a0d7ae5c7b2100f14167f864ee1f12",
+  "kind": "feature",
+  "severity": "minor",
+  "title": "Equator 1.1.5",
+  "notes": "Tous les outils du menu Outils répondent, et vous disent quoi faire quand ils ne peuvent pas.",
+  "highlights": [
+    "Boost : un bouton « Terminé » pour refermer le panneau.",
+    "Mode lecture : traduit, et il prévient quand la page n'a pas d'article à lire.",
+    "Media Pin, Focus Audio et captures : un message clair s'il n'y a pas de vidéo ou de page ouverte.",
+    "Alizés et « Résumer la page » ne sont plus grisés : s'ils sont éteints, Equator propose de les activer."
+  ]
+}
