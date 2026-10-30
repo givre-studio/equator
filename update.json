@@ -1,0 +1,13 @@
+{
+  "version": "1.2.9",
+  "build": 20,
+  "url": "https://raw.githubusercontent.com/elow-labs/equator/main/Equator.zip",
+  "sha256": "28aef8186506f096aed0b827b11196d869ec34869bee78ffeae55730446ec6ad",
+  "kind": "design",
+  "severity": "minor",
+  "title": "Equator 1.2.9",
+  "notes": "Les Alizés, 100 % sur votre Mac.",
+  "highlights": [
+    "Plus aucune mention de clé API : les Alizés tournent sur votre Mac."
+  ]
+}
