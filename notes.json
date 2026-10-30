@@ -1,0 +1,9 @@
+{
+  "kind": "design",
+  "severity": "minor",
+  "title": "Equator 1.2.8",
+  "notes": "Petites finitions.",
+  "highlights": [
+    "Import depuis Arc : un encart plus sobre."
+  ]
+}
